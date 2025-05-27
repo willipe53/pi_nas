@@ -4,7 +4,7 @@
 
 ![nas_pi.png](nas_pi.png)
 
-Objective was to have a simple small NAS server for local backup of my Mac using Time Machine. Setup of the Pi was based almost to the letter on e [Using a Raspberry Pi for Time Machine](NASSetupArticle.pdf) by Oleg Ovechkin.
+Objective was to have a simple small NAS server for local backup of my Mac using Time Machine. Setup of the Pi was based almost to the letter on [Using a Raspberry Pi for Time Machine](NASSetupArticle.pdf) by Oleg Ovechkin.
 
 NOTE: That article, while great, is three years old as of this writing. So don't be shocked if some things behave a bit differently by the time you see this. For example, I'm pretty sure that whole section about `cd /Volumes/boot && touch ssh && cd` is unnecessary.
 
